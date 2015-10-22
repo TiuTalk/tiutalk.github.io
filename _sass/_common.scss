@@ -26,15 +26,20 @@ h1,h2,h3,h4 {
 
 a, a:visited, a:active {
   text-decoration: none;
-  color: $orange;
+  color: $blue;
 
   &:hover {
-    color: darken($orange, 10%);
+    color: darken($blue, 10%);
   }
 }
 
 abbr {
   cursor: help;
+}
+
+::selection {
+  background: $selection;
+  color: #000;
 }
 
 header {
