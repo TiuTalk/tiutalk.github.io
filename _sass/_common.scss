@@ -20,8 +20,6 @@ body {
 
 h1,h2,h3,h4 {
   font-family: 'Oswald', sans-serif;
-  text-transform: uppercase;
-  line-height: 1.2em;
 }
 
 a, a:visited, a:active {
@@ -54,6 +52,14 @@ header {
     font-size: 4em;
     margin: .05em 0 .1em 0;
     letter-spacing: 3px;
+    text-transform: uppercase;
+    line-height: 1.2em;
+
+    span {
+      text-transform: none;
+      opacity: .2;
+      font-size: .8em;
+    }
   }
 
   .social {
