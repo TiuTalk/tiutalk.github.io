@@ -15,11 +15,13 @@
 </head>
 <body>
   <div class="container">
-    {% include header.html %}
+    {% include _header.html %}
 
     <main>
       {{ content }}
     </main>
   </div>
+
+  {% include _analytics.html %}
 </body>
 </html>
