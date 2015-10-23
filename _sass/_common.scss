@@ -27,7 +27,7 @@ a, a:visited, a:active {
   color: $blue;
 
   &:hover {
-    color: darken($blue, 10%);
+    color: darken($blue, 30%);
   }
 }
 
@@ -64,13 +64,13 @@ header {
 
   .social {
     a {
-      color: inherit;
-      &:hover { color: inherit }
+      color: #888;
+      &:hover { color: darken(#888, 30%) }
 
       &:after {
         content: '/';
         margin: 0 .5em;
-        opacity: .5;
+        opacity: .3;
       }
 
       &:last-child {
