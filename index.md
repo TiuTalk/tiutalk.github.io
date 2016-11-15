@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Hi! My name is {{ site.name }}, I'm a **{{ site.role | downcase }}** and **teacher**, working from {{ site.location }} as a **digital nomad** while I travel from city to city. Currently I'm working at [HE:labs][helabs] and before that [enjoei :P][enjoei], [ESPN Brasil][espn], [Globo.com][globo] and [Jornal do Brasil][jb].
+Hi! My name is {{ site.name }}, I'm a **{{ site.role | downcase }}** and **teacher**, working as a **digital nomad** while I travel from city to city. Currently I'm working at [HE:labs][helabs] and before that [enjoei :P][enjoei], [ESPN Brasil][espn], [Globo.com][globo] and [Jornal do Brasil][jb].
 
 I'm also creator of [Assando Sites][assando-sites], a project where I teach **Ruby on Rails** and **CakePHP** to other developers. I've taught more than *400 developers* new tools, workflows and techniques, through this project.
 
