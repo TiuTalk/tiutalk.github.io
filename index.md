@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Hi! My name is {{ site.name }}, I'm a **{{ site.role | downcase }}** and **teacher**, working as a **digital nomad** while I travel from city to city. Currently I'm working with [StudySoup][studysoup] and, before that, I've worked with other awesome companies like [HE:labs][helabs], [enjoei :P][enjoei], [ESPN Brasil][espn] and [Globo.com][globo].
+Hi! My name is {{ site.name }}, I'm a **{{ site.role | downcase }}** and **teacher**, working as a **digital nomad** while I travel from city to city. Currently I'm working with [Kyokan][kyokan] and, before that, I've worked with other awesome companies like [StudySoup][studysoup], [HE:labs][helabs], [enjoei :P][enjoei], [ESPN Brasil][espn] and [Globo.com][globo].
 
 I'm also creator of [Assando Sites][assando-sites], a project where I taught **Ruby on Rails** and **CakePHP** to more than *450 developers* new frameworks, tools, workflows and techniques.
 
@@ -20,3 +20,4 @@ On my spare time, you can find me between the woods or on the top of some mounta
 [espn]: http://espn.com.br
 [jb]: http://www.jb.com.br
 [globo]: http://globo.com
+[kyokan]: https://kyokan.io/
