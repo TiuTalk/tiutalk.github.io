@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Hi! My name is {{ site.name }}, I'm a **{{ site.role | downcase }}** and **teacher**, working as a **digital nomad** while I travel from city to city.
+Hi! My name is {{ site.name }}, I'm a **{{ site.role | downcase }}** and **teacher**, working from my hometown, in the northeast of Brazil.
 
 I've worked with awesome companies like [StellaService][stella], [Kyokan][kyokan], [StudySoup][studysoup], [HE:labs][helabs], [enjoei :P][enjoei], [ESPN Brasil][espn] and [Globo.com][globo].
 
