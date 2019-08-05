@@ -2,9 +2,11 @@
 layout: default
 ---
 
-Hi! My name is {{ site.name }}, I'm a **{{ site.role | downcase }}** and **teacher**, working as a **digital nomad** while I travel from city to city. Currently I'm working with [StellaService][stella] and, before that, I've worked with other awesome companies like [Kyokan][kyokan], [StudySoup][studysoup], [HE:labs][helabs], [enjoei :P][enjoei], [ESPN Brasil][espn] and [Globo.com][globo].
+Hi! My name is {{ site.name }}, I'm a **{{ site.role | downcase }}** and **teacher**, working as a **digital nomad** while I travel from city to city.
 
-I'm also creator of [Assando Sites][assando-sites], a project where I taught **Ruby on Rails** and **CakePHP** to more than *450 developers* new frameworks, tools, workflows and techniques.
+I've worked with awesome companies like [StellaService][stella], [Kyokan][kyokan], [StudySoup][studysoup], [HE:labs][helabs], [enjoei :P][enjoei], [ESPN Brasil][espn] and [Globo.com][globo].
+
+I'm the creator of [Assando Sites][assando-sites], through which I taught **Ruby on Rails** and **CakePHP** to more than *450 developers* new frameworks, tools, workflows and techniques.
 
 Furthermore, I deliver fantastic Ruby on Rails apps using **Agile** methodologies, and TDD and CI are the most important tools on my belt.
 
